@@ -1,0 +1,16 @@
+Additional:
+--------------------------------
+admin part
+----------
+delete existing articcle
+addd an article by yourself.
+all modals.
+about us page
+excel file upload if.... :p
+
+Handle single '
+Guides to the students:
+2. Youtuve videos.
+4. Competitve coding sites.
+profile picture.
+1. Pagination - show 10 pages.
